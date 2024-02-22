@@ -1,0 +1,28 @@
+.bg-container {
+  height: 120vh;
+  width: 100vw;
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+}
+
+.card-container {
+  height: 115vh;
+  width: 90vw;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+}
+.main-heading {
+  color: #cb8805;
+  font-family: Roboto;
+}
+
+.unordered-list-item {
+  list-style-type: none;
+  margin-right: 35px;
+}

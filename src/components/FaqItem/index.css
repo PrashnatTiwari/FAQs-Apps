@@ -1,0 +1,37 @@
+.plus-image {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.list-item {
+  border: 1px solid #d7dae6;
+  list-style-type: none;
+  border-radius: 10px;
+  margin: 30px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.horizontal-line {
+  width: 100%;
+  border-color: e4e7eb;
+}
+
+.question-text-heading {
+  margin-left: 20px;
+  font-size: 20px;
+  color: #52606d;
+  font-family: 'Roboto';
+}
+
+.answer-text-paragraph {
+  color: #9aa5b1;
+  text-align: start;
+  margin-left: 20px;
+}
