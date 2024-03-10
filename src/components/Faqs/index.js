@@ -9,7 +9,7 @@ class Faqs extends Component {
     isClicked: false,
   }
 
-  deleteImage = id => {
+  deleteImage = () => {
     this.setState(prevState => ({
       isClicked: !prevState.isClicked,
     }))
